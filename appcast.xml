@@ -5,6 +5,14 @@
         <item>
             <title>1.1</title>
             <pubDate>Sun, 08 Nov 2026 17:14:26 -0600</pubDate>
+            <sparkle:version>202611081728</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://gold240sx.github.io/zude-updates/Zude-1.1.zip" length="102138966" type="application/octet-stream" sparkle:edSignature="iaGsysG74q6IPk+MShjFgzNZ9a5gXS0hMnpCiyVTBknIqwV9oy8AD8gQ7vM/RVCmbz4MQui7kF6P3ry1WrbtDw=="/>
+        </item>
+        <item>
+            <title>1.1</title>
+            <pubDate>Sun, 08 Nov 2026 17:14:26 -0600</pubDate>
             <sparkle:version>202611081701</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>

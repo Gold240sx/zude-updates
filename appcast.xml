@@ -1,6 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Zude</title>
+        <item>
+            <title>1.1</title>
+            <pubDate>Sun, 08 Nov 2026 17:14:26 -0600</pubDate>
+            <sparkle:version>202611081701</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://gold240sx.github.io/zude-updates/Zude-1.1.zip" length="98391339" type="application/octet-stream" sparkle:edSignature="DfJRRVw4GK9K3uu2Ph2YBLyUIineD12wHphEdCLdDnWk7iMgXYhSzhHSXt2Dmk6XQytBSoxNzI31JIaMnVWrBw=="/>
+        </item>
     </channel>
 </rss>

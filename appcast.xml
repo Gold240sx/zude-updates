@@ -3,6 +3,21 @@
     <channel>
         <title>Zude</title>
         <item>
+            <title>1.7.2</title>
+            <pubDate>Mon, 16 Nov 2026 22:32:13 -0600</pubDate>
+            <sparkle:version>202611162206</sparkle:version>
+            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://gold240sx.github.io/zude-updates/Zude-1.7.2.zip" length="102202272" type="application/octet-stream" sparkle:edSignature="0ck92snQY/EYtAA+vVTn4qzKt9BrF3/pBdSbMI6vuunsFaJfKlkI9xSmhyOA0KT8zUSr+WgaZ0N7kXqruzjQDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://gold240sx.github.io/zude-updates/Zude202611162206-202611160234.delta" sparkle:deltaFrom="202611160234" length="2906166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QGpsfebKc+1qKiKjjTEe4SE41CfuwUG8oCkCZSgpib02+RU0u7Ts8dDrZwU+2bfF7fqWRLD+Z6/PBr3Hj8R0BA=="/>
+                <enclosure url="https://gold240sx.github.io/zude-updates/Zude202611162206-202611150050.delta" sparkle:deltaFrom="202611150050" length="4674194" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="db23ue8dngVPm9xAoKq8KEUd0lGKtAXnVN+ZapnoQdn6K1vqiCma+0d2EghvZn0NRq5RHD7Po8mhvbZKKJzOBg=="/>
+                <enclosure url="https://gold240sx.github.io/zude-updates/Zude202611162206-202611111921.delta" sparkle:deltaFrom="202611111921" length="11018746" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="L9qQXRdFfyzQPpDMYJ9NmsvvO6jRCx4Gh/TVf0uTy9DFpEB+Wa1v0cSxDavXP+JWlxu9PhimwJJYywbV3gv9Aw=="/>
+                <enclosure url="https://gold240sx.github.io/zude-updates/Zude202611162206-202611111832.delta" sparkle:deltaFrom="202611111832" length="11083242" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JjuXIb445EjzmYAwNxOj2187Qp1usYkQt+LkMGEAaz/pg3ealr+71unm2EXzY0sxZX0Q3ITgB++l1KcdJXQODg=="/>
+                <enclosure url="https://gold240sx.github.io/zude-updates/Zude202611162206-202611101258.delta" sparkle:deltaFrom="202611101258" length="21316730" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="suom43QvYT4lFCdhN+3byKx64ZVA3Hw+pgGyH22UNVoOIu8YzHJQC9/Xd9yFa+wlf4ZB8xlzYzOtWeOHMbEoAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.7.1</title>
             <pubDate>Mon, 16 Nov 2026 02:51:42 -0600</pubDate>
             <sparkle:version>202611160234</sparkle:version>
@@ -30,21 +45,6 @@
                 <enclosure url="https://gold240sx.github.io/zude-updates/Zude202611150050-202611101258.delta" sparkle:deltaFrom="202611101258" length="21244978" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5Wmpb6WltVaaraiE4cyeski3wLDF2qbS2TP4MdP8zCv4w2LgVro2rlzm1nTyhxeqX8nGJ1gOPWA4bs0GdW4mBg=="/>
                 <enclosure url="https://gold240sx.github.io/zude-updates/Zude202611150050-202611082251.delta" sparkle:deltaFrom="202611082251" length="22025910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0n1i9Gg++hrhKIQyulNfuLKM3vlXozC0PmFqJixxn+E4m2/cdbe89T7yO/DkswgcPM5XAGONmJXNCcNXF9AlAA=="/>
                 <enclosure url="https://gold240sx.github.io/zude-updates/Zude202611150050-202611082011.delta" sparkle:deltaFrom="202611082011" length="22040666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="v8wR4Zo6xLHZbnr8Mn7NBCdGdOfdn+oPBcvDH7clJgqzMQ4tkhlUK/hxaoADp52jhiSs+BphNN1B+2rrh3M4Dw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.6.1</title>
-            <pubDate>Wed, 11 Nov 2026 19:37:33 -0600</pubDate>
-            <sparkle:version>202611111921</sparkle:version>
-            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://gold240sx.github.io/zude-updates/Zude-1.6.1.zip" length="99890017" type="application/octet-stream" sparkle:edSignature="H0r23pplaKh8rCYaVOl4JOwoewUHXQ87+97pqyUhIdOIQzJL0mmWE7Ld4Zr6H7+ahrgYLuoMaZJVWk0FAOy5Dg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://gold240sx.github.io/zude-updates/Zude202611111921-202611111832.delta" sparkle:deltaFrom="202611111832" length="4219834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4B4K1D7U8ecQsBH+kxcyRO1A9B/nPHnwQV4LDxkq8/xRWbYr0QAJljSkse9Z6xhDLQ/6mxemIUTDxkT8fEjLDA=="/>
-                <enclosure url="https://gold240sx.github.io/zude-updates/Zude202611111921-202611101258.delta" sparkle:deltaFrom="202611101258" length="17316038" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VVYqHVfENE3APdBx4dlWshfKq9NbXbx9AEEbNyjzTXoYBeQNuiMjelRIJGP5VZqaQlBAHUyxxQ0A2gFldndCAQ=="/>
-                <enclosure url="https://gold240sx.github.io/zude-updates/Zude202611111921-202611082251.delta" sparkle:deltaFrom="202611082251" length="18289562" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EvabDfL4oJEBU8OTxS4gfxW8sqYBp/4usZUHctSQ70gxNzTDj8izWURODSOksj6ljL0RJIlptaiugnT/y6F8CA=="/>
-                <enclosure url="https://gold240sx.github.io/zude-updates/Zude202611111921-202611082011.delta" sparkle:deltaFrom="202611082011" length="18326166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gChkoNl4M5rMmlt+jmSCeCFLANE0B5JX7dWmVvv7scanQ3nwxPl4LrLJIhS3zv8ZoecBix2UBjyvsfOAKG8ZDg=="/>
-                <enclosure url="https://gold240sx.github.io/zude-updates/Zude202611111921-202611081941.delta" sparkle:deltaFrom="202611081941" length="18348174" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BekyORD6AfRTRyBTeg+r6yaoS3/0HpfkA1JC1/9eEKKAeADyRI0xj3AapEfe/5DcGWMT2cWS9DjhtZpT7gujCw=="/>
             </sparkle:deltas>
         </item>
     </channel>
